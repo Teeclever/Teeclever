@@ -1,4 +1,8 @@
-### Hi there 👋
+### <p align="center">Hi there 👋 </p>
+
+I'm Tayo, a frontend engineer diving into the world of software engineering at ALX. I love crafting seamless user experiences and I'm excited to merge my frontend skills with a deeper understanding of software architecture. Passionate about creating intuitive designs and constantly evolving in the tech realm."
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!--
 **Teeclever/Teeclever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
