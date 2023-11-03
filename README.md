@@ -6,8 +6,8 @@ I'm Tayo, a frontend engineer diving into the world of software engineering at A
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Teeclever)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Teeclever&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **Teeclever/Teeclever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
