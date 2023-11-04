@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Tayo
 #### Software Engineer
 
-<img src= "https://i.pinimg.com/564x/1a/4d/2d/1a4d2d4ba5ce714e800b23ba51fca297.jpg" width="300px">
+<img src= "https://i.pinimg.com/564x/1a/4d/2d/1a4d2d4ba5ce714e800b23ba51fca297.jpg" width=300px height="400px">
 
 ## 🧑‍💻About Me
 
