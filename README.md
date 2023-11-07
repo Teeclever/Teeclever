@@ -32,6 +32,9 @@ I'm a frontend engineer diving into the world of software engineering at ALX. I 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Teeclever)  
 
 ![Profile views](https://gpvc.arturio.dev/Teeclever)  
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5dee5aed-5552-4aef-b4ae-4387a81a9c12/deploy-status)](https://app.netlify.com/sites/cleverto-dolist/deploys)
 <!--
 **Teeclever/Teeclever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
